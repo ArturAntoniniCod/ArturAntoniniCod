@@ -21,3 +21,10 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,github,vscode&perline=14" />
 </p>
+📊 Activity Snapshot
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=fernando-olv&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fernando-olv&hide=Html&theme=2077) | ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fernando-olv&theme=2077) |
+| :-: | :-: | :-: |
+
+| ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=fernando-olv&theme=2077) | ![](https://github-readme-streak-stats.herokuapp.com?user=fernando-olv&theme=radical&hide_border=true&date_format=n%2Fj%5B%2FY%5D) |
+| :-: | :-: |
