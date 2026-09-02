@@ -86,8 +86,6 @@ I believe that technology is a continuous learning process. Every project, probl
 
 I'm always open to learning opportunities, internships, projects, and connections with people in the technology and cybersecurity communities.
 
-**Thanks for visiting my profile!**
-**ArturAntoniniCod/ArturAntoniniCod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 ---
 
 ## 🛠 Daily Tooling
