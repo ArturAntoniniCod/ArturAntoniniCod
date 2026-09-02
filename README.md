@@ -1,9 +1,6 @@
 ## Hey, I'm Artur👋
 
 <h3 align="center">💻 Developer | 🛡️ Cybersecurity Enthusiast | 🚀 Technology Student</h3>
-<p align="center">
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3U3MXJjMnl0bGo5Z3diYm1iY2ttN3d3cWRidHlzcTlvOWRjdHY3cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif" width="400">
-</p>
 
 I'm a 17-year-old technology enthusiast with a strong curiosity for software development and information security.
 
@@ -99,5 +96,8 @@ I'm always open to learning opportunities, internships, projects, and connection
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,github,vscode&perline=14" />
+</p>
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExa3U3MXJjMnl0bGo5Z3diYm1iY2ttN3d3cWRidHlzcTlvOWRjdHY3cyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/V4NSR1NG2p0KeJJyr5/giphy.gif" width="400">
 </p>
 
