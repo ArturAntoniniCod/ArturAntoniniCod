@@ -3,12 +3,6 @@
 <!--
 **ArturAntoniniCod/ArturAntoniniCod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-<p align="center">
-  <img src="https://img.shields.io/badge/Backend%20Engineering-111?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Secure%20by%20Design-111?style=for-the-badge&logo=shield&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux%20Systems-111?style=for-the-badge&logo=linux&logoColor=f6c915"/>
-</p>
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
@@ -19,3 +13,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+ 🛠 Daily Tooling
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=py,flask,fastapi,java,postgres,mysql,mongo&perline=8" />
+</p>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,bash,docker,nginx,elasticsearch,prometheus,grafana,git,github,githubactions,vscode&perline=14" />
+</p>
