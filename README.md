@@ -5,7 +5,7 @@ I'm a 17-year-old technology enthusiast with a strong curiosity for software dev
 
 I enjoy building applications, learning how systems work, solving problems, and exploring new technologies. I'm currently developing my skills in backend development while working towards a career in cybersecurity.
 
----
+--- 
 
 ## 🖤 What I Do
 
