@@ -1,41 +1,104 @@
 ## Hey, I'm Artur👋
 
 <h3 align="center">💻 Developer | 🛡️ Cybersecurity Enthusiast | 🚀 Technology Student</h3>
-I'm Artur, a 17-year-old technology enthusiast who is curious, motivated, and always looking to learn something new.
+I'm a 17-year-old technology enthusiast with a strong curiosity for software development and information security.
 
-I have knowledge of Python, Flask, SQL, Linux, VS Code, Git, and GitHub. I enjoy creating projects, solving problems, and understanding how things work behind the scenes.
-I'm a naturally curious person who enjoys technology and learning through practice.
+I enjoy building applications, learning how systems work, solving problems, and exploring new technologies. I'm currently developing my skills in backend development while working towards a career in cybersecurity.
 
-My main career goal is to work in Information Security / Cybersecurity. I'm interested in learning more about systems, networks, programming, vulnerabilities, and security.
+---
 
-I believe that being curious and constantly learning are essential for growing in technology.
+## 🖤 What I Do
 
-🎯 My Goals
-🔐 Build a career in Cybersecurity
-📚 Continuously improve my technical skills
-💻 Build real-world projects
-🧠 Learn more about Information Security
-🚀 Gain professional experience
-🤝 Find an internship or entry-level job opportunity
-📖 Currently Learning
-I'm currently improving my knowledge in:
+I'm focused on software development with a growing interest in security and systems.
 
-🔐 Cybersecurity
-🐍 Python
-🌐 Web Development
-🐧 Linux
-🗄️ SQL & Databases
-🌐 Computer Networks
-🛡️ Information Security
-💡 A Little About Me
-"Stay curious, keep learning, and never stop improving."
+I enjoy:
 
-I'm always looking for new challenges, technologies, and opportunities to learn and grow.
+- Building backend applications with Python and Flask
+- Working with databases and SQL
+- Developing and testing APIs
+- Using Linux for development and system administration
+- Learning how systems work and how they can be secured
+- Exploring new technologies and solving technical problems
 
-📫 Contact
-If you're interested in my work or would like to connect, feel free to reach out!
+Think: **backend development + system knowledge + security mindset.**
 
-⭐ Thanks for visiting my profile!
+---
+
+## 🧠 Core Strengths
+
+### Backend & Software Development
+
+- Backend development with **Python**
+- Web development with **Flask**
+- Working with **SQL and databases**
+- API development and integration
+- Writing clean and maintainable code
+- Version control with **Git and GitHub**
+- Development using **Linux**
+- Using **VS Code** as my main development environment
+
+### Information Security
+
+- Growing interest in **Cybersecurity**
+- Learning about information security concepts
+- Interest in networks, systems, and vulnerabilities
+- Security-focused mindset when developing software
+- Constantly exploring new cybersecurity topics
+- Learning through personal projects and practical experimentation
+
+### Learning & Personal Development
+
+- Curious and always willing to learn
+- Enjoy understanding how things work
+- Constantly improving my programming skills
+- Interested in turning knowledge into practical projects
+- Comfortable learning independently and researching new topics
+
+---
+
+## 🎯 Career Goals
+
+My main goal is to build a career in **Information Security / Cybersecurity**.
+
+I'm currently looking for an **internship or entry-level opportunity** where I can gain professional experience, work with experienced developers and security professionals, contribute to real-world projects, and continue developing my technical skills.
+
+I'm especially interested in opportunities that allow me to grow in:
+
+- Cybersecurity
+- Backend Development
+- Linux & Systems
+- Networking
+- Information Security
+- Software Engineering
+
+---
+
+## 📚 Currently Learning
+
+- Python
+- Flask
+- SQL
+- Linux
+- Networking
+- Cybersecurity
+- Information Security
+- Backend Development
+
+---
+
+## 💭 Mindset
+
+> Stay curious. Keep learning. Keep building.
+
+I believe that technology is a continuous learning process. Every project, problem, and mistake is an opportunity to improve.
+
+---
+
+## 📫 Contact
+
+I'm always open to learning opportunities, internships, projects, and connections with people in the technology and cybersecurity communities.
+
+**Thanks for visiting my profile!**
 **ArturAntoniniCod/ArturAntoniniCod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
  🛠 Daily Tooling
