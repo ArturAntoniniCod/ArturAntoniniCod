@@ -104,7 +104,7 @@ I'm always open to learning opportunities, internships, projects, and connection
  🛠 Daily Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,flask,mysql,&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,flask,mysql,cyber&perline=8" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,github,vscode&perline=14" />
