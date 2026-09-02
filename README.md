@@ -107,6 +107,6 @@ I'm always open to learning opportunities, internships, projects, and connection
   <img src="https://skillicons.dev/icons?i=py,flask,mysql,cyber&perline=8" />
 </p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,bash,github,vscode&perline=14" />
+  <img src="https://skillicons.dev/icons?i=linux,github,vscode&perline=14" />
 </p>
 
