@@ -88,8 +88,9 @@ I'm always open to learning opportunities, internships, projects, and connection
 
 **Thanks for visiting my profile!**
 **ArturAntoniniCod/ArturAntoniniCod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
- 🛠 Daily Tooling
+## 🛠 Daily Tooling
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=py,flask,mysql,cyber&perline=8" />
