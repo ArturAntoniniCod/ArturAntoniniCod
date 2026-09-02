@@ -2,46 +2,51 @@
 
 <!--
 **ArturAntoniniCod/ArturAntoniniCod** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-💻 Developer | 🛡️ Cybersecurity Enthusiast | 🚀 Lifelong Learner
+💻 Developer | 🛡️ Cybersecurity Enthusiast | 🚀 Technology Student
+I'm Artur, a 17-year-old technology enthusiast who is curious, motivated, and always looking to learn something new.
 
-I'm a 17-year-old technology enthusiast who is curious, motivated, and always looking for new things to learn and explore.
+I have knowledge of Python, Flask, SQL, Linux, VS Code, Git, and GitHub. I enjoy creating projects, solving problems, and understanding how things work behind the scenes.
 
-I have knowledge and experience with Python, Flask, SQL, Linux, and VS Code, and I'm constantly improving my programming and problem-solving skills through personal projects and practical learning.
+I'm currently focused on developing my programming skills and exploring the world of Information Security and Cybersecurity.
 
-🛠️ Technologies & Tools
-<p align="left"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" /> <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> </p>
+🛠️ Skills & Technologies
+🐍 Python
+🌐 Flask
+🗄️ SQL
+🐧 Linux
+💻 VS Code
+🔧 Git & GitHub
 🛡️ About Me
-🎂 I'm 17 years old
-🐍 I enjoy programming with Python
-🐧 I have experience using Linux
-🗄️ I work with SQL and databases
-🌐 I build applications using Flask
-💻 I use VS Code as my main development environment
-🧠 I'm a curious person who enjoys understanding how things work
-🔐 My goal is to pursue a career in Information Security / Cybersecurity
-📚 I'm constantly studying and looking for new challenges
+I'm a naturally curious person who enjoys technology and learning through practice.
+
+My main career goal is to work in Information Security / Cybersecurity. I'm interested in learning more about systems, networks, programming, vulnerabilities, and security.
+
+I believe that being curious and constantly learning are essential for growing in technology.
+
 🎯 My Goals
+🔐 Build a career in Cybersecurity
+📚 Continuously improve my technical skills
+💻 Build real-world projects
+🧠 Learn more about Information Security
+🚀 Gain professional experience
+🤝 Find an internship or entry-level job opportunity
+📖 Currently Learning
+I'm currently improving my knowledge in:
 
-My main goal is to build a career in Information Security, while continuing to develop my programming and technical skills.
-
-I'm currently looking for an internship or entry-level job opportunity where I can gain professional experience, learn from experienced professionals, contribute to real-world projects, and grow as a developer and future cybersecurity professional.
-
-📈 Currently Learning
-
-I'm continuously studying and improving my knowledge in:
-
-🔐 Cybersecurity & Information Security
+🔐 Cybersecurity
 🐍 Python
 🌐 Web Development
-🐧 Linux & Systems
-🗄️ Databases & SQL
-🌐 Networking
-🧩 Problem Solving
-💡 My Mindset
+🐧 Linux
+🗄️ SQL & Databases
+🌐 Computer Networks
+🛡️ Information Security
+💡 A Little About Me
+"Stay curious, keep learning, and never stop improving."
 
-"Stay curious. Keep learning. Keep building."
+I'm always looking for new challenges, technologies, and opportunities to learn and grow.
 
-I'm always open to learning new technologies, working on interesting projects, and taking on new challenges.
+📫 Contact
+If you're interested in my work or would like to connect, feel free to reach out!
 
 ⭐ Thanks for visiting my profile!
 
