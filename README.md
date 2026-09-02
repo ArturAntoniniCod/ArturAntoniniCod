@@ -16,7 +16,7 @@
  🛠 Daily Tooling
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=py,flask,fastapi,mysql,&perline=8" />
+  <img src="https://skillicons.dev/icons?i=py,flask,mysql,&perline=8" />
 </p>
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,bash,github,vscode&perline=14" />
