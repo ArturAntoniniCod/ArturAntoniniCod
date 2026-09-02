@@ -73,19 +73,6 @@ I'm especially interested in opportunities that allow me to grow in:
 
 ---
 
-## 📚 Currently Learning
-
-- Python
-- Flask
-- SQL
-- Linux
-- Networking
-- Cybersecurity
-- Information Security
-- Backend Development
-
----
-
 ## 💭 Mindset
 
 > Stay curious. Keep learning. Keep building.
